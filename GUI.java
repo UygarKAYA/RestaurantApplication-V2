@@ -33,7 +33,7 @@ public class GUI {
 		frame.add(tabbedPane);
 		
 		frame.pack();
-	    frame.setLocationRelativeTo(null);
+	    	frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 	}
 }
